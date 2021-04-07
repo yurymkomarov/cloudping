@@ -39,7 +39,7 @@ func init() {
     "Middle East (Bahrain)	me-south-1":          "https://dynamodb.me-south-1.amazonaws.com/",
     "South America (São Paulo)	sa-east-1":       "https://dynamodb.sa-east-1.amazonaws.com/",
     "AWS GovCloud (US-East)	us-gov-east-1":       "https://dynamodb.us-gov-east-1.amazonaws.com/",
-    "AWS GovCloud (US-West)	us-gov-west-1":       "https://dynamodb.us-gov-west-1.amazonaws.com/"
+    "AWS GovCloud (US-West)	us-gov-west-1":       "https://dynamodb.us-gov-west-1.amazonaws.com/",
 	}
 }
 
